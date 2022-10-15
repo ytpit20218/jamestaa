@@ -1,0 +1,34 @@
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e6ed841cd7ae4a89b552d86bc437408d&key=6ab94b164b7add9358950fc7059e3e9f
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ Cine HD (VieON) 
+#EXTVLCOPT:http-user-agent=Exoplayer
+https://s1288.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d978528392644abf8abe6ab07ff9d8cb&key=4ccecb14f8ea5b27e960c9d30eb65079
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" group-title="K+", K+Life HD (Vieon)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=54b601c5017b459da7173f65df56da7b&key=8a99f461ea95de85c73dbdc50ebe5b32
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="K+",K+Sport1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9d1e0d4ee71243fc9b6645f1a6b15084&key=557603eebfc6c4c2f2d154102cbb4769
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="K+",K+Sport2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png" group-title="K+",K+KIDS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d36f3ca0ceb44a0881a34876a7bd2e68&key=94b553e8ddc197ac29e87a65559703cb
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
