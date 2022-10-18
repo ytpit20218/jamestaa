@@ -14,7 +14,7 @@ https://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=54b601c5017b459da7173f65df56da7b&key=8a99f461ea95de85c73dbdc50ebe5b32
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7cd6859146e941f6a0cc8b94a7d5f14e&key=9a100de89e8ec783f532b544332eb084
 #EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="K+",K+Sport1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd
